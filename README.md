@@ -6,7 +6,8 @@
 ## Objetivos
  
  * Databases;
-  * Data Science:
+  
+ * Data Science:
       * Estátistica;
       * Business Intelligence;
       * Machine Learning;
