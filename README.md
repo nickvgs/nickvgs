@@ -1,7 +1,7 @@
-### Olá 👋
+## Olá 👋
 
-## Meu Nome é Nicolas Vogiantzis,
-  ## Entusiasta por tecnologia, apaixonado por conhecimento.
+### Meu Nome é Nicolas Vogiantzis,
+  ### Entusiasta por tecnologia, apaixonado por conhecimento.
   
 
 
