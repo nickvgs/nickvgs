@@ -3,6 +3,19 @@
 ### Meu Nome é Nicolas Vogiantzis,
   ### Entusiasta por tecnologia, apaixonado por conhecimento.
   
+## Objetivos
+ 
+ * Databases;
+ * Data Science;
+         * Estátistica;
+         * Businesse Intelligence;
+         * Machine Learning;
+         * Inteligência Artificial; 
+ * Desenvolvimento:
+      * Front-end;
+      * Back-end;
+      * Mobile;
+ 
 
 
 <!--
