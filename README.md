@@ -22,7 +22,10 @@
       * Back-end;
       * Mobile;
  
-
+ * Infraestrutura:
+      * VM Linux (Distro: Ubuntu, Debian and Mint);
+      * VM MS (Ver.: 7, 10 e Server 2008, Server 2012);
+      * Ferramentas: Hyper-V, Virtual Box e VMWare;
 
 <!--
 **nickvgs/nickvgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
