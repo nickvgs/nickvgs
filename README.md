@@ -6,6 +6,10 @@
 ## Objetivos
  
  * Databases;
+      * PostgreSQL;
+      * Microsoft SQL;
+      * MariaDB e MySQL;
+      * SQL; 
   
  * Data Science:
       * Estátistica;
