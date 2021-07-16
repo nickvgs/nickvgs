@@ -7,14 +7,14 @@
  
  * Databases;
  * Data Science:
-       *Estátistica;
-       *Businesse Intelligence;
-       *Machine Learning;
-       *Inteligência Artificial; 
+       * Estátistica;
+       * Businesse Intelligence;
+       * Machine Learning;
+       * Inteligência Artificial; 
  * Desenvolvimento:
-      *Front-end;
-      *Back-end;
-      *Mobile;
+      * Front-end;
+      * Back-end;
+      * Mobile;
  
 
 
