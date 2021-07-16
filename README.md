@@ -11,11 +11,7 @@
       * Business Intelligence;
       * Machine Learning;
       * Inteligeência Artificial;
- * Data Science:
-       *  Estátistica;
-       *  Business Intelligence;
-       *  Machine Learning;
-       *  Inteligência Artificial; 
+
  * Desenvolvimento:
       * Front-end;
       * Back-end;
