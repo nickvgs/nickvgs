@@ -6,13 +6,14 @@
 ## Objetivos
  
  * Databases;
-  * Desenvolvimento:
-      * Front-end;
-      * Back-end;
-      * Mobile;
+  * Data Science:
+      * Estátistica;
+      * Business Intelligence;
+      * Machine Learning;
+      * Inteligeência Artificial;
  * Data Science:
        *  Estátistica;
-       *  Businesse Intelligence;
+       *  Business Intelligence;
        *  Machine Learning;
        *  Inteligência Artificial; 
  * Desenvolvimento:
