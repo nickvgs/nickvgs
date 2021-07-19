@@ -9,16 +9,15 @@
  * Databases;
       * PostgreSQL;
       * Microsoft SQL;
-      * MariaDB e MySQL;
-      * SQL; 
+      * MariaDB e MySQL; 
   
  * Data Science:
       * Estátistica;
       * Business Intelligence;
       * Machine Learning;
-      * Inteligeência Artificial;
+      * Inteligência Artificial;
 
- * Desenvolvimento:
+ * Desenvolvimento e Sustentação:
       * Front-end;
       * Back-end;
       * Mobile;
@@ -27,6 +26,7 @@
       * VM Linux (Distro: Ubuntu, Debian and Mint);
       * VM MS (Ver.: 7, 10 e Server 2008, Server 2012);
       * Ferramentas: Hyper-V, Virtual Box e VMWare;
+
 
 <!--
 **nickvgs/nickvgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
