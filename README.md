@@ -4,7 +4,7 @@
   ### Entusiasta por tecnologia, apaixonado por conhecimento.
   
   
-## Objetivos
+## Conhecimentos em:
  
  * Databases;
       * PostgreSQL;
