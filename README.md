@@ -2,6 +2,7 @@
 
 ### Meu Nome é Nicolas Vogiantzis,
   ### Entusiasta por tecnologia, apaixonado por conhecimento.
+  #### Formado como Técnico em Eletrônica, Analista de Sistemas e Especialista em BigData e Inteligência na gestão de dados
   
 ## Objetivos
  
