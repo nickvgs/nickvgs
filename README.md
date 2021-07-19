@@ -1,6 +1,5 @@
-## Olá 👋
+## Olá 👋, Sou Nicolas Vogiantzis,
 
-### Sou Nicolas Vogiantzis,
 #### Formado como Técnico em Eletrônica, Analista de Sistemas e Especialista em BigData e Inteligência na gestão de dados
   ### Entusiasta por tecnologia, apaixonado por conhecimento.
   
