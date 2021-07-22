@@ -1,8 +1,12 @@
 ## Olá 👋, Sou Nicolas Vogiantzis,
 
-#### Formado como Técnico em Eletrônica, Analista de Sistemas e Especialista em BigData e Inteligência na gestão de dados
-  ### Entusiasta por tecnologia, apaixonado por conhecimento.
-  
+### Formação Acadêmica 
+
+#### Formado como Técnico em Eletrônica - ETEC Albert Einstein | Graduado em Analise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo | Especialista em MBA BigData e Inteligência na gestão de dados - Centro de Inovação VincIT.
+
+#### Cursando Engenharia da Computação pela Universidade Virtual do Estado de São Paulo.
+
+### Entusiasta por tecnologia, apaixonado por conhecimento.
   
 ## Conhecimentos em:
  
