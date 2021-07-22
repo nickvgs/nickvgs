@@ -6,9 +6,9 @@
 
 #### Cursando Engenharia da Computação pela Universidade Virtual do Estado de São Paulo.
 
-### Entusiasta por tecnologia, apaixonado por conhecimento.
+### :triangular_flag_on_post: Entusiasta por tecnologia, apaixonado por conhecimento.
   
-## Conhecimentos em:
+## :white_check_mark: Conhecimentos em:
  
  * Databases;
       * PostgreSQL;
@@ -31,6 +31,8 @@
       * VM MS (Ver.: 7, 10 e Server 2008, Server 2012);
       * Ferramentas: Hyper-V, Virtual Box e VMWare;
 
+### Linkedin:
+#### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
 
 <!--
 **nickvgs/nickvgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
