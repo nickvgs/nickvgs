@@ -2,7 +2,7 @@
 
 ### :mortar_board: Formação Acadêmica:
 
-#### Formado como Técnico em Eletrônica - ETEC Albert Einstein | Graduado em Análise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo | Especialista em MBA BigData e Inteligência na gestão de dados - Centro de Inovação VincIT.
+#### Técnico em Eletrônica | Graduado em Análise e Desenvolvimento de Sistemas | Especialista em MBA Big Data e Inteligência na Gestão de Dados.
 
 #### Cursando Engenharia da Computação pela Universidade Virtual do Estado de São Paulo.
 
