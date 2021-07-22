@@ -1,6 +1,6 @@
 ## Olá 👋, Sou Nicolas Vogiantzis,
 
-### Formação Acadêmica 
+### :mortar_board: Formação Acadêmica:
 
 #### Formado como Técnico em Eletrônica - ETEC Albert Einstein | Graduado em Analise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo | Especialista em MBA BigData e Inteligência na gestão de dados - Centro de Inovação VincIT.
 
