@@ -6,7 +6,7 @@
 
 #### Cursando Engenharia da Computação pela Universidade Virtual do Estado de São Paulo.
 
-### :triangular_flag_on_post: Entusiasta por tecnologia, apaixonado por conhecimento.
+#### :triangular_flag_on_post: Entusiasta por tecnologia, apaixonado por conhecimento.
   
 ## :white_check_mark: Conhecimentos em:
  
