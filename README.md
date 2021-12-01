@@ -31,6 +31,19 @@
       * VM MS (Ver.: 7, 10 e Server 2008, Server 2012);
       * Ferramentas: Hyper-V, Virtual Box e VMWare;
 
+ * Ferramentas para Programação e DS:
+      * VS e VS Code;
+      * Power BI;
+      * Qlik Sense, Qlik View;       
+      * Jupyter Notebook, Jupyter LAB;
+      * Anaconda Navigator;
+      * R Studio;
+      * Excel;
+      * Git e GitHub;
+      * Workbench, PgAdmin, MSSQL Manager Studio;
+      * Android Studio;
+      * Docker Desktop;
+
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
 
