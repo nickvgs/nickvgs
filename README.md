@@ -8,7 +8,7 @@
 
 #### :triangular_flag_on_post: Entusiasta por tecnologia.
   
-## :white_check_mark: Conhecimentos em:
+## :white_check_mark: Conhecimentos e Interesses em:
  
  * Databases;
       * PostgreSQL;
