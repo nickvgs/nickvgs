@@ -2,12 +2,10 @@
 
 ### :mortar_board: Formação Acadêmica:
 
-#### Técnico em Eletrônica pela ETEC Albert Einstein. <br></br> Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo.
-#### MBA Big Data e Inteligência na Gestão de Dados pelo Centro de Invoação VincIT.
-#### Espcialista em Algoritmos e Estrutura de Dados pelo Centro de Estudos de Especialização e Extensão
 
-### Cursando Engenharia da Computação na Universidade Virtual do Estado de São Paulo.
-### Cursando Pós em Ciência de Dados e Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo.
+##### Técnico em Eletrônica pela ETEC Albert Einstein | Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo | MBA Big Data e Inteligência na Gestão de Dados pelo Centro de Invoação VincIT | Espcialista em Algoritmos e Estrutura de Dados pelo Centro de Estudos de Especialização e Extensão
+
+##### Cursando Engenharia da Computação na Universidade Virtual do Estado de São Paulo & Cursando Pós em Ciência de Dados e Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo.
 
 #### :triangular_flag_on_post: Entusiasta por tecnologia.
   
