@@ -19,6 +19,7 @@
  * Data Science:
       * Estátistica;
       * Python e R;
+      * SQL;
       * Análise de Negócios;
       * Business Intelligence;
       * Machine Learning;
@@ -33,11 +34,11 @@
       * VM Linux (Distro: Ubuntu, Debian and Mint);
       * VM MS (Ver.: 7, 10 e Server 2008, Server 2012);
       * Ferramentas: Hyper-V, Virtual Box e VMWare;
-      * Docker;
 
  * Ferramentas para Programação e DS:
       * VS e VS Code;
       * Power BI;
+      * Google Data Studio;
       * Qlik Sense, Qlik View;       
       * Jupyter Notebook, Jupyter LAB;
       * Anaconda Navigator;
@@ -46,7 +47,7 @@
       * Git e GitHub;
       * Workbench, PgAdmin, MSSQL Manager Studio;
       * Android Studio;
-      * Docker Desktop;
+      * Docker;
 
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
