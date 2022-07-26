@@ -1,13 +1,15 @@
 ## Olá 👋, Sou Nicolas Vogiantzis,
 
-### :mortar_board: Formação Acadêmica:
+### :mortar_board: _Formação Acadêmica:
 
 - Técnico em Eletrônica pela ETEC Albert Einstein (2012) 
 - Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (2019) 
 - MBA Big Data e Inteligência na Gestão de Dados pelo Centro de Invoação VincIT (2020) 
 - Especialista em Algoritmos e Estrutura de Dados pelo Centro de Estudos de Especialização e Extensão (2021)
 
-##### Cursando Engenharia da Computação na Universidade Virtual do Estado de São Paulo & Cursando Pós em Ciência de Dados (2018-2023), Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo (2022-2023) e Estatística Aplicada na Faculdade FOCUS (2022-2023)
+- Cursando Engenharia da Computação na Universidade Virtual do Estado de São Paulo 
+- Cursando Pós em Ciência de Dados (2018-2023), Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo (2022-2023) 
+- Estatística Aplicada na Faculdade FOCUS (2022-2023)
 
 #### :triangular_flag_on_post: Entusiasta por tecnologia.
   
