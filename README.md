@@ -7,13 +7,13 @@
 - MBA Big Data e Inteligência na Gestão de Dados pelo Centro de Invoação VincIT (2020) 
 - Especialista em Algoritmos e Estrutura de Dados pelo Centro de Estudos de Especialização e Extensão (2021)
 
-#### 🌱 Formação academica (Em progresso)
+### 🌱 Formação academica (Em progresso)
 
 - Cursando Engenharia da Computação na Universidade Virtual do Estado de São Paulo 
 - Cursando Pós em Ciência de Dados (2018-2023), Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo (2022-2023) 
 - Cursando Estatística Aplicada na Faculdade FOCUS (2022-2023)
 
-#### :triangular_flag_on_post: Entusiasta por tecnologia.
+### :triangular_flag_on_post: Entusiasta por tecnologia.
   
 ## :white_check_mark: Conhecimentos e Interesses em:
  
