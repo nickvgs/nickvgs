@@ -50,7 +50,7 @@
       * Anaconda Navigator;
       * R Studio;
       * Excel;
-      * Git e GitHub;
+      * Git e GitHub (jobs Submodules);
       * Workbench, PgAdmin, MSSQL Manager Studio;
       * Android Studio;
       * Docker;
