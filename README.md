@@ -58,7 +58,7 @@
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
 
-## Dados Técnicos do GitHub
+# Dados Técnicos do GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&show_icons=true&theme=dark)
 
