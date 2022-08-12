@@ -1,4 +1,4 @@
-## Olá 👋, Sou Nicolas Vogiantzis,
+# Olá 👋, Sou Nicolas Vogiantzis,
 
 ### :mortar_board: Formação Acadêmica (Encerrada)
 
