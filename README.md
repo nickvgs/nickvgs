@@ -58,7 +58,7 @@
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
 
-https://github-readme-stats.vercel.app/api?username=nickvgs&show_icons=true&theme=dark&locale=pt-br
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
