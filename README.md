@@ -64,7 +64,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact&theme=dark&locale=pt-br)
 
 
 
