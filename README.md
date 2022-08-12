@@ -58,9 +58,12 @@
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&show_icons=true&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact)
+
 
 
 <!--
