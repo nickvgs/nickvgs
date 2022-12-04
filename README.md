@@ -13,7 +13,7 @@
 - Cursando Pós em Ciência de Dados (2018-2023), Big Data Analytics na Faculdade Metropolitana do Estado de São Paulo (2022-2023) 
 - Cursando Estatística Aplicada na Faculdade FOCUS (2022-2023)
 
-### :triangular_flag_on_post: Entusiasta por tecnologia.
+### :triangular_flag_on_post: Entusiasta em tecnologia.
   
 ## :white_check_mark: Conhecimentos e Interesses em:
  
