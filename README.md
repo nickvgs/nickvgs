@@ -17,9 +17,9 @@
 # Dados Técnicos do GitHub
 
 <p style="text-align: center;> "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvgs&count_private=true&show_icons=true&theme=dark)" </p>
+<p style="text-align: center;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact&theme=dark&locale=pt-br)</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact&theme=dark&locale=pt-br)
 
 
 <!--
