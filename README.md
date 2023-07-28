@@ -18,13 +18,11 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickvgs&count_private=true&show_icons=true&theme=dark" /> -->
-  <img align="center src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&hide_progress=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact&theme=dark" /> 
+
 </a> 
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
