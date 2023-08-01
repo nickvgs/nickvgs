@@ -13,13 +13,13 @@
   
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&hide_progress=false)
 # Dados Técnicos do GitHub
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickvgs&layout=compact&theme=dark" /> 
-
 </a> 
 </p>
 
