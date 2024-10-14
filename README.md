@@ -13,7 +13,7 @@
 - Suporte/Infraestrutura (Projetos);
 - Reparo e Análise de Circuitos Eletrônicos;
 
-- Matérias Ministradas Eletrônica/Programação:
+### :triangular_flag_on_post: Matérias Ministradas Eletrônica/Programação:
   - Análise de Dados;
   - Arquitetura de Organização de Computadores;
   - Algoritmos e Programação Estruturada;
@@ -54,7 +54,7 @@
 - Pós em Engenharia de Dados pela Faculdade Anhanguera (Dez/2024)
 
 
-### :triangular_flag_on_post: Entusiasta em tecnologia.
+
   
 ### Linkedin:
 #### :link: https://www.linkedin.com/in/nicolas-vogiantzis/
