@@ -13,9 +13,10 @@
 - Suporte/Infraestrutura (Projetos);
 - Reparo e Análise de Circuitos Eletrônicos;
 
-### :triangular_flag_on_post: Matérias Ministradas Eletrônica/Programação:
-- 
-   - Análise de Dados;
+### :triangular_flag_on_post: Matérias Ministradas:
+
+- Máterias Ministradas EAD/Presencial:
+  - Análise de Dados;
   - Arquitetura de Organização de Computadores;
   - Algoritmos e Programação Estruturada;
   - Administração de Banco de Dados;
