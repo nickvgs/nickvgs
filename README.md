@@ -1,11 +1,47 @@
 # Olá 👋, Sou Nicolas Vogiantzis,
 
-### Área de Atuação
+### Área de Atuação/Conhecimento
 
-- Auando como Engenheiro de Dados com foco em ferramentas Cloud na AWS e GCP
-- Desenvolvimento de Aplicações Backend
+- Auando como Engenheiro de Dados com foco em ferramentas Cloud na AWS e GCP;
+- Desenvolvimento de aplicações Backend (APIs com arquitetura de Microserviços);
 - Professor de cursos de Graduação:
-   - (Ánalise e Desenvolvimentod e Sistemas,  Ciência da Computação, Engenharia da Computação, Engenharia Elétrica )
+   - Análise e Desenvolvimento de Sistemas;
+   - Ciência da Computação;
+   - Engenharia da Computação;
+   - Engenharia Elétrica;
+- Revisor de Conteúdo Elaborado por Professores da área de tecnologia.
+- Suporte/Infraestrutura (Projetos);
+- Reparo e Análise de Circuitos Eletrônicos;
+
+- Matérias Ministradas Eletrônica/Programação:
+  - Análise de Dados;
+  - Arquitetura de Organização de Computadores;
+  - Algoritmos e Programação Estruturada;
+  - Administração de Banco de Dados;
+  - Internet das Coisas (IoT);
+  - IoT e Programação de Sensores;
+  - Linguagem SQL para Programação de Banco de Dados;
+  - Modelagem de Banco de Dados;
+  - Microcontroladores;
+  - Programação Orientada a Objetos;
+  - Redes de Computadores;
+  - Sistemas Operacionais;
+  - Sistemas Digitais e Microprocessadores;
+  - Sistemas Emabarcados;
+  - Sistemas Distribuídos;
+  - Sistemas de Telecomunicações;
+
+- Principais Linguagens de Programação:
+  - SQL
+  - Python
+  - R
+  - C\C++
+  - Java
+  <!-- - NodeJs
+  - PHP
+  -->
+
+  
   
 ### :mortar_board: Formação Acadêmica 
 
