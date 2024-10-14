@@ -33,7 +33,8 @@
   - Sistemas Distribuídos;
   - Sistemas de Telecomunicações;
 
-- Principais Linguagens de Programação:
+### :triangular_flag_on_post:Linguagens de Programação:
+- Linguagens:
   - SQL
   - Python
   - R
