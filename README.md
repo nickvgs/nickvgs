@@ -2,7 +2,7 @@
 
 ### Área de Atuação/Conhecimento
 
-- Auando como Engenheiro de Dados com foco em ferramentas Cloud na AWS e GCP;
+- Atuando como Engenheiro de Dados com foco em ferramentas Cloud na AWS e GCP;
 - Desenvolvimento de aplicações Backend (APIs com arquitetura de Microserviços);
 - Professor de cursos de Graduação:
    - Análise e Desenvolvimento de Sistemas;
