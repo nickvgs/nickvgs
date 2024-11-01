@@ -2,7 +2,7 @@
 
 ### :triangular_flag_on_post: Matérias Ministradas:
 
-- Máterias Ministradas EAD/Presencial:
+- Matérias Ministradas EAD/Presencial:
   - Análise de Dados;
   - Arquitetura de Organização de Computadores;
   - Algoritmos e Programação Estruturada;
