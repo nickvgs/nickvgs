@@ -27,6 +27,8 @@
   - R
   - C\C++
   - Java
+  - Node.Js
+  - PHP
   <!-- - NodeJs
   - PHP
   -->
