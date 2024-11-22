@@ -1,6 +1,6 @@
 # Olá 👋, Sou Nicolas Vogiantzis,
 
-### :triangular_flag_on_post: Matérias Ministradas:
+<!--### :triangular_flag_on_post: Matérias Ministradas:
 
 - Matérias Ministradas EAD/Presencial:
   - Análise de Dados;
@@ -19,7 +19,7 @@
   - Sistemas Emabarcados;
   - Sistemas Distribuídos;
   - Sistemas de Telecomunicações;
-
+-->
 ### :triangular_flag_on_post:Linguagens de Programação:
 - Linguagens:
   - SQL
